@@ -3,7 +3,7 @@
 
 How to play "Blood Alchemy":
 
--Each player starts with a deck of 12 cards. /n
+-Each player starts with a deck of 12 cards.
 -At the start of the game, each player draws 4 cards.
 -Type the letter of the card you want to play (example: "b")
 -Type which column you want it to go to (example: "2")
