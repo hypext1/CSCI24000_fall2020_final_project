@@ -34,4 +34,3 @@ h (cost: +1)
 w (cost: -2, destroy all creatures in a column)
 
 ![UML Diagram](https://imgur.com/9ccxwRa)
-<blockquote class="imgur-embed-pub" lang="en" data-id="9ccxwRa"><a href="https://imgur.com/9ccxwRa">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
