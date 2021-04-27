@@ -12,3 +12,10 @@ How to play "Blood Alchemy":
 -Placing a card in a column with another monster makes the two monsters fight!
 -Cards can be placed on top of each other to do damage in that column again!
 -First player to hit 0 health loses the game.
+
+Cards:
+b (cost: -3, power: 4)
+d (cost: -2, power: 3)
+' (cost: 0, power: 1)
+h (cost: +1)
+w (cost: -2, destroy all creatures in a column)
