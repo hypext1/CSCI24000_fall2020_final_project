@@ -1,6 +1,6 @@
 # CSCI24000_fall2020_final_project
 
-![pixil-frame-0(20)](https://media.github.iu.edu/user/16946/files/2fa37b80-a71f-11eb-9d1b-4f49ce197385)
+![back](https://media.github.iu.edu/user/16946/files/87da7d80-a71f-11eb-83b1-6579a56ae9be)
 
 How to play "Blood Alchemy":
 
