@@ -33,4 +33,5 @@ h (cost: +1)
 
 w (cost: -2, destroy all creatures in a column)
 
-![UML Diagram](https://imgur.com/9ccxwRa)
+![Screenshot (312)](https://media.github.iu.edu/user/16946/files/a0499880-a71d-11eb-8b33-c60e597bdba8)
+
