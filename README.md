@@ -19,3 +19,5 @@ d (cost: -2, power: 3)
 ' (cost: 0, power: 1)
 h (cost: +1)
 w (cost: -2, destroy all creatures in a column)
+
+![alt text](https://imgur.com/a/avcSBy6)
